@@ -1,0 +1,20 @@
+{
+  "name": "cloneGojek",
+  "displayName": "cloneGojek"
+}
+//  {
+//    "expo": {
+//     "name": "cloneGojek",
+//     "icon": "./src/assets/logo/appLogo.png",
+//     "version": "1.0.0",
+//     "slug": "cloneGojek",
+//     "ios": {
+//       "bundleIdentifier": "com.clone.gojek",
+//       "buildNumber": "1.0.0"
+//     },
+//     "android": {
+//       "package": "com.clone.gojek",
+//       "versionCode": 1
+//     }
+//    }
+//  }
